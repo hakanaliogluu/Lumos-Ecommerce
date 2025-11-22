@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* İsteğe bağlı genel stil */
+body {
+  background-color: #ffffff;
+}

@@ -1,0 +1,17 @@
+# Derleme (Build) Sonuçları
+bin/
+obj/
+
+# Kullanıcıya özel ayarlar
+.vs/
+*.user
+
+# Log dosyaları
+*.log
+
+# Veritabanı dosyaları (Eğer varsa)
+*.mdf
+*.ldf
+
+# Gizli ayarlar (Şifrelerin olduğu dosya)
+appsettings.Development.json

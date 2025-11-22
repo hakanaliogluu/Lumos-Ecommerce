@@ -1,0 +1,27 @@
+# Bağımlılıklar (Kütüphaneler)
+node_modules/
+.pnp
+.pnp.js
+
+# Test dosyaları
+coverage/
+
+# Üretim dosyaları (Build alınca oluşur)
+dist/
+build/
+
+# Çevresel değişkenler (Gizli şifreler vs.)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editör dosyaları
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
