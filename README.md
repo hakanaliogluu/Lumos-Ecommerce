@@ -63,7 +63,7 @@ Projenin arayüzünden bazı kareler:
 |--------------------------|------------------------|
 | ![Home](./screenshots/HomePage2.png) | ![Category](./screenshots/MenCategoryPage.png) |
 | **Kadın Koleksiyonu** | **Detaylı Ürün Gösterimi** |
-| ![Category Women](./screenshots/WomenCategoryPage.png) | *(Arayüzden detay görseli)* |
+| ![Category Women](./screenshots/WomenCategoryPage.png) |
 
 ### 🔐 Kimlik Doğrulama
 | Giriş Yap (Login) | Kayıt Ol (Register) |
